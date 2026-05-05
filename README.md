@@ -93,7 +93,7 @@ Frontend            ███░░░░░░░ 30%
 <h2>⚡ Filosofia</h2>
 
 <blockquote>
-"Todo erro é um bug esperando virar aprendizado."</p>
+"De bug em bug que se cria um desenvolvedor."</p>
 </blockquote>
 
 ---
