@@ -1,41 +1,108 @@
-<h2 align="left">🖖 Hi there, welcome to my Github profile</h2>
+<h1 align="center">🖖 Arthur Pereira | ApNas</h1>
 
-###
+<p align="center">
+🎯 Desenvolvedor Backend em formação <br>
+💻 Focado em Python, sistemas práticos e resolução de problemas reais
+</p>
 
-<p align="left">• My name is Arthur Pereira and i'm a Python Developer, from PE, Brazil 🇧🇷</p>
+---
 
-###
+<h2>🚀 Sobre mim</h2>
 
-<h2 align="left">My Techs</h2>
+<ul>
+<li>🎓 Estudante de Análise e Desenvolvimento de Sistemas (IFPE)</li>
+<li>🧠 Evoluindo de lógica → sistemas completos</li>
+<li>⚙️ Foco em backend, APIs e banco de dados</li>
+</ul>
 
-###
+---
 
-<img align="right" height="125" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWNqdW45NGo4cnkyM3B5eTZodmRwOXcwMjBqbnB0emhyMm56dDBuZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/source.gif"  />
+<h2>📊 GitHub Stats</h2>
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arhuritinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhuritinho&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
-###
+---
 
-<h2 align="left">My Stats</h2>
+<h2>🔥 Streak (Consistência)</h2>
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <a href="https://www.instagram.com/arthuritinho/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/natxow" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
-  </a>
+<img src="https://streak-stats.demolab.com?user=Arthuritinho&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
+
+<h2>🧰 Tecnologias & Ferramentas</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,java,js,html,mysql,linux,bash" />
+
+</div>
+
+---
+
+<h2>💡 Projetos em desenvolvimento</h2>
+
+<ul>
+<li>🔐 Sistema de Login com múltiplos usuários</li>
+<li>📚 Sistema de Livros Lidos</li>
+</ul>
+
+---
+
+<h2>🧠 Aprendizado Atual</h2>
+
+<pre>
+Backend (Python)     ███████░░░ 70%
+Banco de Dados       ██████░░░░ 60%
+Lógica               ████████░░ 80%
+APIs                █████░░░░░ 50%
+Frontend            ███░░░░░░░ 30%
+</pre>
+
+---
+
+<h2>🌐 Contato</h2>
+
+<div align="center">
+
+<a href="mailto:aarthurpereeira@gmail.com">
+  <img src="https://img.shields.io/badge/Email-aarthurpereeira%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/arthuritinho/">
+  <img src="https://img.shields.io/badge/Instagram-@arthuritinho-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.twitch.tv/natxow">
+  <img src="https://img.shields.io/badge/Twitch-natxow-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<h2>⚡ Filosofia</h2>
+
+<blockquote>
+"Todo erro é um bug esperando virar aprendizado."</p>
+</blockquote>
+
+---
+
+<p align="center">
+🔥 Em constante evolução
+</p>
+
+<!--
+IMPORTANTE:
+Substitua SEU_USERNAME pelo seu usuário do GitHub
+-->
