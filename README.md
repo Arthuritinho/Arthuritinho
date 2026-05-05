@@ -64,8 +64,8 @@
 Backend (Python)     ███████░░░ 70%
 Banco de Dados       ██████░░░░ 60%
 Lógica               ████████░░ 80%
-APIs                █████░░░░░ 50%
-Frontend            ███░░░░░░░ 30%
+APIs                 █████░░░░░ 50%
+Frontend             ███░░░░░░░ 30%
 </pre>
 
 ---
