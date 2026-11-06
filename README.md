@@ -17,16 +17,6 @@
 
 ---
 
-<h2>🔥 Streak (Consistência)</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Arthuritinho&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 <h2>🧰 Tecnologias & Ferramentas</h2>
 
 <div align="center">
